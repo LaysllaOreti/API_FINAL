@@ -1,0 +1,104 @@
+{
+  "cafeterias": [
+    {
+      "id": "1",
+      "nome": "Coffee Lab",
+      "descricao": "Microtorrefação e cafeteria multipremiada, focada em cafés de altíssima qualidade e no ensino da cultura do café especial no Brasil.",
+      "fundadores": ["Isabela Raposeiras"],
+      "imagem": "assets/images/coffeeLab.png",
+      "servicos_principais": ["Escola de baristas", "Microtorrefação", "Rituais de degustação guiada"],
+      "promocoes": "10% de desconto nos grãos recém-torrados da semana."
+    },
+    {
+      "id": "2",
+      "nome": "The Coffee",
+      "descricao": "Cafeteria minimalista e tecnológica nascida em Curitiba, inspirada na cultura japonesa e no modelo 'to-go'.",
+      "fundadores": ["Alexandre Fertonani", "Carlos Fertonani", "Luis Fertonani"],
+      "imagem": "assets/images/theCoffee.png",
+      "servicos_principais": ["Pedido 100% via App", "Autoatendimento", "Cafés especiais práticos"],
+      "promocoes": "Ganhe 15% OFF no primeiro pedido realizado pelo aplicativo."
+    },
+    {
+      "id": "3",
+      "nome": "Fran's Café",
+      "descricao": "Uma das mais tradicionais redes paulistas de cafeterias, conhecida pelo seu ambiente de convivência e amplo cardápio.",
+      "fundadores": ["Francisco Conte", "José Henrique Ramos"],
+      "imagem": "assets/images/fransCafe.png",
+      "servicos_principais": ["Atendimento 24 horas (algumas unidades)", "Cardápio de bistrô", "Espaço para leitura e reuniões"],
+      "promocoes": "Combo espresso + pão de queijo por preço especial todos os dias até as 10h."
+    },
+    {
+      "id": "4",
+      "nome": "Suplicy Cafés",
+      "descricao": "Pioneira na torrefação e extração de cafés especiais no Brasil, ajudando a introduzir o conceito de microlotes no país.",
+      "fundadores": ["Marco Suplicy"],
+      "imagem": "assets/images/suplicy.png",
+      "servicos_principais": ["Torrefação própria", "Extração em múltiplos métodos", "Assinatura de cafés"],
+      "promocoes": "Frete grátis na assinatura mensal de microlotes exclusivos."
+    },
+    {
+      "id": "5",
+      "nome": "Santo Grão",
+      "descricao": "Referência em São Paulo que une lifestyle, gastronomia requintada e blends premium em um ambiente cosmopolita.",
+      "fundadores": ["Craig Bell"],
+      "imagem": "assets/images/santoGrao.png",
+      "servicos_principais": ["Venda de grãos exclusivos", "Brunch", "Atendimento de lounge"],
+      "promocoes": "Na compra de 1kg de café em grãos, ganhe um espresso ou macchiato na loja."
+    },
+    {
+      "id": "6",
+      "nome": "Mais1 Café",
+      "descricao": "Rede paranaense com modelo inovador 'to-go', focada em alta escalabilidade, cafés de alta pontuação e lanches rápidos.",
+      "fundadores": ["Alan Parise", "Gare Marques", "Hilton Alves", "Vinícius Delatorre"],
+      "imagem": "assets/images/mais1Cafe.png",
+      "servicos_principais": ["Café To-Go", "Snacks importados", "Atendimento dinâmico"],
+      "promocoes": "Acumule 10 carimbos no cartão fidelidade e ganhe um copo de bebida grande."
+    },
+    {
+      "id": "7",
+      "nome": "Go Coffee",
+      "descricao": "Cafeteria urbana brasileira com grande foco em bebidas geladas, frapês autorais e cookies, em um ambiente jovem.",
+      "fundadores": ["Ariel Mondaca", "Caio Nardes"],
+      "imagem": "assets/images/goCoffee.png",
+      "servicos_principais": ["Frappes e sodas", "Pet friendly", "Clube de benefícios via App"],
+      "promocoes": "Desconto de 10% na bebida se você trouxer o seu próprio copo reutilizável."
+    },
+    {
+      "id": "8",
+      "nome": "Café Cultura",
+      "descricao": "Rede nascida em Santa Catarina, premiada por focar na rastreabilidade dos grãos, do produtor até a xícara.",
+      "fundadores": ["Joshua Stevens", "Luciana Melo"],
+      "imagem": "assets/images/cafeCultura.png",
+      "servicos_principais": ["Rastreabilidade de origem", "Loja de utensílios para café", "Cardápio saudável"],
+      "promocoes": "Leve 3 pacotes de café em pó ou grãos da linha clássica e pague apenas 2."
+    },
+    {
+      "id": "9",
+      "nome": "Kopenhagen (Cafeteria)",
+      "descricao": "A icônica grife brasileira de chocolates finos, que também oferece uma experiência de cafeteria premium harmonizada.",
+      "fundadores": ["David Kopenhagen", "Anna Kopenhagen"],
+      "imagem": "assets/images/kopenhagen.png",
+      "servicos_principais": ["Harmonização café e chocolate", "Bebidas exclusivas (ex: Cappuccino Nhá Benta)", "Clube Kop"],
+      "promocoes": "Ganhe uma minitrufa clássica na compra de qualquer bebida quente em tamanho grande."
+    },
+    {
+      "id": "10",
+      "nome": "Cheirin Bão",
+      "descricao": "Franquia que leva a experiência rural e autêntica do Sul de Minas Gerais para todo o Brasil, com empório e cafés especiais.",
+      "fundadores": ["Wilton Alves"],
+      "imagem": "assets/images/cheirinBao.png",
+      "servicos_principais": ["Empório de produtos mineiros", "Doces artesanais", "Café coado na mesa do cliente"],
+      "promocoes": "Degustação gratuita de doce de leite da casa na compra de um café coado no método V60."
+    },
+    {
+      "id": "11",
+      "nome": "Sterna Café",
+      "descricao": "Rede paulistana inspirada em viagens pelo mundo, trazendo grãos nacionais selecionados e métodos de extração globais.",
+      "fundadores": ["Deiverson Migliatti"],
+      "imagem": "assets/images/sternaCafe.png",
+      "servicos_principais": ["Cafés de microlotes", "Métodos de preparo variados (Prensa Francesa, Aeropress)", "Revista própria"],
+      "promocoes": "Na compra de um método de extração francês na loja, a bebida é por nossa conta."
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
