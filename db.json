@@ -5,7 +5,7 @@
       "nome": "Coffee Lab",
       "descricao": "Microtorrefação e cafeteria multipremiada, focada em cafés de altíssima qualidade e no ensino da cultura do café especial no Brasil.",
       "fundadores": ["Isabela Raposeiras"],
-      "imagem": "images/coffeeLab.png",
+      "imagem": "assets/images/coffeeLab.png",
       "servicos_principais": ["Escola de baristas", "Microtorrefação", "Rituais de degustação guiada"],
       "promocoes": "10% de desconto nos grãos recém-torrados da semana."
     },
@@ -59,7 +59,7 @@
       "nome": "Go Coffee",
       "descricao": "Cafeteria urbana brasileira com grande foco em bebidas geladas, frapês autorais e cookies, em um ambiente jovem.",
       "fundadores": ["Ariel Mondaca", "Caio Nardes"],
-      "imagem": "images/goCoffee.png",
+      "imagem": "assets/images/goCoffee.png",
       "servicos_principais": ["Frappes e sodas", "Pet friendly", "Clube de benefícios via App"],
       "promocoes": "Desconto de 10% na bebida se você trouxer o seu próprio copo reutilizável."
     },
@@ -68,7 +68,7 @@
       "nome": "Café Cultura",
       "descricao": "Rede nascida em Santa Catarina, premiada por focar na rastreabilidade dos grãos, do produtor até a xícara.",
       "fundadores": ["Joshua Stevens", "Luciana Melo"],
-      "imagem": "images/cafeCultura.png",
+      "imagem": "assets/images/cafeCultura.png",
       "servicos_principais": ["Rastreabilidade de origem", "Loja de utensílios para café", "Cardápio saudável"],
       "promocoes": "Leve 3 pacotes de café em pó ou grãos da linha clássica e pague apenas 2."
     },
